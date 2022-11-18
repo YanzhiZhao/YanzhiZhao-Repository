@@ -1,5 +1,7 @@
 """In RaspberryPi.py, we control the switch on/off of three thermocouples and RTD"""
 
+@ Author: YanzhiZhao
+
 from gpiozero import LED
 from time import sleep
 import threading 
